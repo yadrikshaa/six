@@ -1,3 +1,7 @@
 hhahbdsbh
 vaibahv
+<<<<<<< HEAD
 this is in remote
+=======
+temporary??/
+>>>>>>> targetbranch
